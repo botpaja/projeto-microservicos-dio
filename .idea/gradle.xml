@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/carrinhoCompra" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Java/gradle-7.1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/carrinhoCompra" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/catalogoProduto" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Java/gradle-7.1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/catalogoProduto" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/configServer" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Java/gradle-7.1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/configServer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gateway" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Java/gradle-7.1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/serviceDiscovery" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Java/gradle-7.1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/serviceDiscovery" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
